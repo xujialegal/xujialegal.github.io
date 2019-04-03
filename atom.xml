@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>节奏丶</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-04-03T05:38:25.654Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Jiale Xu</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>命运石之门</title>
+    <link href="http://yoursite.com/2019/04/03/%E4%B8%BA%E4%BA%86%E5%91%BD%E8%BF%90%E7%9F%B3%E4%B9%8B%E9%97%A8/"/>
+    <id>http://yoursite.com/2019/04/03/为了命运石之门/</id>
+    <published>2019-04-03T04:56:43.000Z</published>
+    <updated>2019-04-03T05:38:25.654Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;center&gt;El Psy congroo&lt;center&gt;&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
